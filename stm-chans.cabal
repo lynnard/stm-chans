@@ -6,7 +6,7 @@
 -- and source-repository:.
 Cabal-Version:  >= 1.6
 -- We need a custom build in order to define __HADDOCK__
-Build-Type:     Custom
+Build-Type:     Simple
 
 Name:           stm-chans
 Version:        3.0.0.4
